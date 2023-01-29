@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\New folder\\coonections\\connection\\Connection.sln",
+    "projects": [
+      "Connection.csproj"
+    ]
+  }
+}
